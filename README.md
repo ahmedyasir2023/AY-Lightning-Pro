@@ -1,7 +1,7 @@
 # ⚡ AY KILL APP — LIGHTNING PRO v8.0.0
 
 <p align="center">
-  <img src="assets/ay-lightning-v8-banner.png" alt="AY KILL APP — Lightning Pro Studio v8.0.0 | Designed and Developed by Eng. Ahmed Yasir" width="100%">
+  <img width="1679" height="937" alt="AY Kill App_ Black Gold Performance Module" src="https://github.com/user-attachments/assets/5be1c013-0572-471a-a995-c69bbac78894" />
 </p>
 
 <p align="center">
